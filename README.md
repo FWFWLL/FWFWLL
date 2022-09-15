@@ -23,6 +23,7 @@ Subscribe to Vestia Zeta Ch. hololive-ID
 ![Rust](https://img.shields.io/badge/Rust-1C1C1C?style=flat-square&logo=rust&logoColor=000000)
 ![Python](https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python&logoColor=3776AB)
 ![Lua](https://img.shields.io/badge/Lua-1C1C1C?style=flat-square&logo=lua&logoColor=2C2D72)
+![Unity](https://img.shields.io/badge/Unity-1C1C1C?style=flat-square&logo=unity&logoColor=FFFFFF)
 ![Neovim](https://img.shields.io/badge/Neovim-1C1C1C?style=flat-square&logo=neovim&logoColor=57A143)
 ![Debian](https://img.shields.io/badge/Debian-1C1C1C?style=flat-square&logo=debian&logoColor=A81D33)
 
