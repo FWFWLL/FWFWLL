@@ -19,6 +19,7 @@ Subscribe to Vestia Zeta Ch. hololive-ID
 ![C++](https://img.shields.io/badge/C++-1C1C1C?style=flat-square&logo=cplusplus&logoColor=00599C)
 ![Vulkan](https://img.shields.io/badge/Vulkan-1C1C1C?style=flat-square&logo=vulkan&logoColor=AC162C)
 ![Java](https://img.shields.io/badge/Java-1C1C1C?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-1C1C1C?style=flat-square&logo=kotlin&logoColor=7F52FF)
 ![C Sharp](https://img.shields.io/badge/C_Sharp-1C1C1C?style=flat-square&logo=csharp&logoColor=239120)
 ![Rust](https://img.shields.io/badge/Rust-1C1C1C?style=flat-square&logo=rust&logoColor=000000)
 ![Python](https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python&logoColor=3776AB)
