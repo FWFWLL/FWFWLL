@@ -1,7 +1,5 @@
 # FWFWLL, FFL, YungLing
 
-Subscribe to Vestia Zeta Ch. hololive-ID
-
 ![](https://count.getloli.com/get/@:FWFWLL?theme=rule34)
 
 ## Tools and Technologies
