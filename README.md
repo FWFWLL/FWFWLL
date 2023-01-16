@@ -28,8 +28,8 @@
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=FWFWLL&theme=github_dark&count_private=true&hide=contribs&hide_border=true&show_icons=true&title_color=54DA97&icon_color=FF0064&bg_color=1C1C1C&text_color=EEEEEE)
+![](https://github-readme-stats-fwfwll.vercel.app/api?username=FWFWLL&theme=github_dark&count_private=true&hide=contribs&hide_border=true&show_icons=true&title_color=54DA97&icon_color=FF0064&bg_color=1C1C1C&text_color=EEEEEE)
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=FWFWLL&theme=github-dark&hide_border=true&stroke=FF0064&ring=54DA97&fire=FF0064&dates=54DA97&background=1C1C1C&currStreakLabel=EEEEEE&currStreakNum=EEEEEE&sideLabels=EEEEEE&sideNums=EEEEEE&date_format=Y/n/j)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FWFWLL&layout=compact&theme=github_dark&langs_count=6&hide_border=true&title_color=54DA97&bg_color=1C1C1C&text_color=EEEEEE)
+![](https://github-readme-stats-fwfwll.vercel.app/api/top-langs/?username=FWFWLL&layout=compact&theme=github_dark&langs_count=6&hide_border=true&title_color=54DA97&bg_color=1C1C1C&text_color=EEEEEE)
