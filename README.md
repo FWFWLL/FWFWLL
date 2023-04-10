@@ -2,7 +2,14 @@
 
 ![](https://count.getloli.com/get/@:FWFWLL?theme=rule34)
 
-## Tools and Technologies
+## Currently Learning 📖
+- Stable Diffusion
+- Machine Learning
+  - PyTorch
+- Artificial Intelligence
+  - Large Language Models
+
+## Tools and Technologies 🛠
 
 ![HTML5](https://img.shields.io/badge/HTML5-1C1C1C?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1C1C1C?style=flat-square&logo=css3&logoColor=1572B6)
@@ -26,7 +33,7 @@
 ![Neovim](https://img.shields.io/badge/Neovim-1C1C1C?style=flat-square&logo=neovim&logoColor=57A143)
 ![Debian](https://img.shields.io/badge/Debian-1C1C1C?style=flat-square&logo=debian&logoColor=A81D33)
 
-## GitHub Stats
+## GitHub Stats 📊
 
 ![](https://github-readme-stats-fwfwll.vercel.app/api?username=FWFWLL&theme=github_dark&count_private=true&hide=contribs&hide_border=true&show_icons=true&title_color=54DA97&icon_color=FF0064&bg_color=1C1C1C&text_color=EEEEEE)
 
