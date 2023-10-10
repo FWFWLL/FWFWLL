@@ -8,6 +8,7 @@
   - PyTorch
 - Artificial Intelligence
   - Large Language Models
+- Rust Design Patterns
 
 ## Tools and Technologies 🛠
 
